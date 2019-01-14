@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a crazy project for learing React from it's main tutorial - mostly main concepts here.
+
+Basically react-to-gifs contains a set of strange GIF-related scenes/visualizations/minigames that explore GIPHY API and capabilities of React.
+
+About me - My background is Angular (-JS to 7), so here I'm going to use that project to learn React, note down what I learn and show off some of my skills!
 
 ## Available Scripts
 
